@@ -6,7 +6,7 @@ display: flex;
 
 .flex-container div {
     background: gray;
-    border: 14px black;
+    border: 4px black;
     height: 100px;
 }
 
