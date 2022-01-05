@@ -6,7 +6,7 @@ display: space-between;
 
 .flex-container div {
     background: gray;
-    border: 4px black;
+    border: 10px black;
     height: 100px;
 }
 
